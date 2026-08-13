@@ -1,4 +1,4 @@
-# Simon Game - PIC24FJ64GA00## Status: Beta
+# Simon Game - PIC24 Status: Beta
 - Core game functionality working (LED sequence, button input, audio feedback, difficulty scaling)
 - High score storage via EEPROM in development
 
